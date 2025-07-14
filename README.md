@@ -1,6 +1,4 @@
-# Hi there 👋
-
-I'm Fenil Vaghasiya!
+# I'm Fenil Vaghasiya!
 
 Welcome to my GitHub profile. Here you'll find my projects, contributions, and some fun facts about me.
 
