@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**Fenil-Vaghasiya-22/Fenil-Vaghasiya-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Fenil Vaghasiya!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile. Here you'll find my projects, contributions, and some fun facts about me.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🔭 I’m currently working on exciting coding projects.
+- 🌱 I’m learning new technologies every day.
+- 💬 Ask me about anything related to programming.
+- 📫 How to reach me: [Your Email or Social Links Here]
+
+## 🛠️ Languages and Tools
+
+- JavaScript, Python, Java, C++
+- React, Node.js, Express
+- Git & GitHub
+
+## 📈 GitHub Stats
+
+![Fenil-Vaghasiya-22's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fenil-Vaghasiya-22&show_icons=true&theme=radical)
+
+---
+
+Thanks for visiting my profile!
